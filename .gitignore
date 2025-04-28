@@ -1,0 +1,79 @@
+# Node modules (React)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Build output for React
+build/
+dist/
+
+# .NET Core build artifacts
+bin/
+obj/
+out/
+
+# ASP.NET Core local settings
+appsettings.Development.json
+appsettings.json
+
+# User-specific files
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# MacOS Finder files
+.DS_Store
+
+# JetBrains Rider project files
+.idea/
+
+# VS Code settings (Optional but can be useful)
+.vscode/
+
+# ASP.NET Core secrets
+secrets/
+
+# Local configuration files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IIS Express config (Optional)
+.vs/
+
+# JetBrains Rider (Optional)
+.idea/
+
+# Logs
+*.log
+
+# Temporary ASP.NET Core files
+App_Data/
+
+# DotCover Coverage files (if using)
+*.dotCover
+
+# Coverage directory for Jest (React)
+coverage/
+
+# Docker (Optional if using Docker)
+docker-compose.override.yml
+.dockerignore
+
+# NPM Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ASP.NET Core User Secrets (Optional)
+appsettings.Secrets.json
