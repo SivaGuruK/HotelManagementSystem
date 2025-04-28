@@ -1,0 +1,32 @@
+# Node modules (for React)
+/frontend/node_modules
+
+# Build output
+/frontend/build
+/frontend/.next
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# Dependency directories
+/frontend/node_modules/
+
+# .NET Core build output
+/Backend.Api/bin/
+/Backend.Api/obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# npm package lock file
+/frontend/package-lock.json
